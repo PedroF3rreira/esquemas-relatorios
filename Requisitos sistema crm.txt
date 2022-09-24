@@ -1,0 +1,22 @@
+Requisitos de um sistema crm para igrejas
+
+
+-funcionalidades de usuarios cadastrados como administradores do sistema
+
+o sistema deve ter as seguintes funcionalidades
+
+
+cadastro de membros
+edição de membros
+exclução de membros
+visualização de membros
+
+deve ter funcionalidade de envio de emails
+
+membros podem ter cargos/categorias
+ex: diáconos, secretarios, tesoureiro, pastores e etc..
+
+sistema deve ter função de geração de certificados
+
+sistema deve ter função de upload de arquivos dos membros
+ 
